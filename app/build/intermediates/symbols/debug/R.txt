@@ -416,7 +416,7 @@ int id action_menu_presenter 0x7f090003
 int id action_mode_bar 0x7f09003d
 int id action_mode_bar_stub 0x7f09003c
 int id action_mode_close_button 0x7f090025
-int id action_settings 0x7f090050
+int id action_settings 0x7f090052
 int id activity_chooser_view_content 0x7f090026
 int id alertTitle 0x7f090030
 int id always 0x7f090016
@@ -444,6 +444,8 @@ int id ifRoom 0x7f090018
 int id image 0x7f090028
 int id listMode 0x7f090009
 int id list_item 0x7f09002a
+int id list_item_forecast_textview 0x7f090051
+int id listview_forecast 0x7f090050
 int id middle 0x7f090015
 int id multiply 0x7f09001e
 int id never 0x7f090019
@@ -514,10 +516,11 @@ int layout abc_select_dialog_material 0x7f040017
 int layout abc_simple_dropdown_hint 0x7f040018
 int layout activity_main 0x7f040019
 int layout fragment_main 0x7f04001a
-int layout select_dialog_item_material 0x7f04001b
-int layout select_dialog_multichoice_material 0x7f04001c
-int layout select_dialog_singlechoice_material 0x7f04001d
-int layout support_simple_spinner_dropdown_item 0x7f04001e
+int layout list_item_forecast 0x7f04001b
+int layout select_dialog_item_material 0x7f04001c
+int layout select_dialog_multichoice_material 0x7f04001d
+int layout select_dialog_singlechoice_material 0x7f04001e
+int layout support_simple_spinner_dropdown_item 0x7f04001f
 int menu main 0x7f0d0000
 int mipmap ic_launcher 0x7f030000
 int string abc_action_bar_home_description 0x7f0b0000

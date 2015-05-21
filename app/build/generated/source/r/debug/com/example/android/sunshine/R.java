@@ -1523,7 +1523,7 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f09003d;
         public static final int action_mode_bar_stub=0x7f09003c;
         public static final int action_mode_close_button=0x7f090025;
-        public static final int action_settings=0x7f090050;
+        public static final int action_settings=0x7f090052;
         public static final int activity_chooser_view_content=0x7f090026;
         public static final int alertTitle=0x7f090030;
         public static final int always=0x7f090016;
@@ -1551,6 +1551,8 @@ containing a value of this type.
         public static final int image=0x7f090028;
         public static final int listMode=0x7f090009;
         public static final int list_item=0x7f09002a;
+        public static final int list_item_forecast_textview=0x7f090051;
+        public static final int listview_forecast=0x7f090050;
         public static final int middle=0x7f090015;
         public static final int multiply=0x7f09001e;
         public static final int never=0x7f090019;
@@ -1625,10 +1627,11 @@ containing a value of this type.
         public static final int abc_simple_dropdown_hint=0x7f040018;
         public static final int activity_main=0x7f040019;
         public static final int fragment_main=0x7f04001a;
-        public static final int select_dialog_item_material=0x7f04001b;
-        public static final int select_dialog_multichoice_material=0x7f04001c;
-        public static final int select_dialog_singlechoice_material=0x7f04001d;
-        public static final int support_simple_spinner_dropdown_item=0x7f04001e;
+        public static final int list_item_forecast=0x7f04001b;
+        public static final int select_dialog_item_material=0x7f04001c;
+        public static final int select_dialog_multichoice_material=0x7f04001d;
+        public static final int select_dialog_singlechoice_material=0x7f04001e;
+        public static final int support_simple_spinner_dropdown_item=0x7f04001f;
     }
     public static final class menu {
         public static final int main=0x7f0d0000;
